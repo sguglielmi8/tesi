@@ -1673,9 +1673,9 @@
     </textDesc>
   </profileDesc>
 </teiHeader>
-<!-- <facsimile>
+<facsimile>
     <graphic url='declaration.jpg' />
-</facsimile> -->
+</facsimile>
 <text xml:lang="en">
 <body>
   <div type="doc">
@@ -2064,21 +2064,34 @@
     </textDesc>
   </profileDesc>
 </teiHeader>
-<!-- <facsimile>
-    <graphic url='8889.jpeg'/>
-    <graphic url='9091.jpeg'/>
-    <graphic url='9293.jpeg'/>
-    <graphic url='9495.jpeg'/>
-    <graphic url='9697.jpeg'/>
-    <graphic url='9899.jpeg'/>
-    <graphic url='100101.jpeg'/>
-    <graphic url='102103.jpeg'/>
-    <graphic url='104105.jpeg'/>
-    <graphic url='106107.jpeg'/>
-    <graphic url='108109.jpeg'/>
-    <graphic url='110111.jpeg'/>
-    <graphic url='112113.jpeg'/>
-</facsimile> -->
+<facsimile>
+    <graphic url='88.jpeg'/>
+    <graphic url='89.jpeg'/>
+    <graphic url='90.jpeg'/>
+    <graphic url='91.jpeg'/>
+    <graphic url='92.jpeg'/>
+    <graphic url='93.jpeg'/>
+    <graphic url='94.jpeg'/>
+    <graphic url='95.jpeg'/>
+    <graphic url='96.jpeg'/>
+    <graphic url='97.jpeg'/>
+    <graphic url='98.jpeg'/>
+    <graphic url='99.jpeg'/>
+    <graphic url='100.jpeg'/>
+    <graphic url='101.jpeg'/>
+    <graphic url='102.jpeg'/>
+    <graphic url='103.jpeg'/>
+    <graphic url='104.jpeg'/>
+    <graphic url='105.jpeg'/>
+    <graphic url='106.jpeg'/>
+    <graphic url='107.jpeg'/>
+    <graphic url='108.jpeg'/>
+    <graphic url='109.jpeg'/>
+    <graphic url='110.jpeg'/>
+    <graphic url='111.jpeg'/>
+    <graphic url='112.jpeg'/>
+    <graphic url='113.jpeg'/>
+</facsimile> 
 <text xml:lang="it">
 <body>
   <div type="doc">
@@ -2086,12 +2099,12 @@
     <opener>
       <dateline>Maggio-Settembre 1776</dateline>
     </opener>
-    <p><pb n="88"/>
+    <p><pb facs="88.jpeg" n="88"/>
     <lb n="1"/>
     1. Si desidera che significhiate alla convenzione la nostra approvazione e
     <lb n="2"/> 
     le nostre grazie per la sua prudente, nobile, ed animosa condotta </p>
-    <p><pb n="89"/>
+    <p><pb facs="89.jpeg" n="89"/>
     <lb n="1"/>
     del tempo della sua convocazione a quello della nostra
     <lb n="2"/> 
@@ -2180,7 +2193,7 @@
     ogniqualvolta c'è bisogno di far leggi ed amministrar giustizia, esso 
     <lb n="44"/>
     farebbe da sé, come chi ha poca terra e poche mani.</p>
-    <p><pb n="90"/>
+    <p><pb facs="90.jpeg" n="90"/>
     <lb n="1"/>
     Ma <rs ana="#C-RAP">il paese essendo talmente vasto e il riunirsi tutti gli abitanti in 
     <lb n="2"/>
@@ -2270,7 +2283,7 @@
     <p><lb n="44"/>
     4. Sembra che nel loro modo avventato di procedere nella cosa </p>
    
-    <p><pb n="91"/>
+    <p><pb facs="91.jpeg" n="91"/>
     <lb n="1"/>
     più importante d'una nazione (e che non accade che una sola volta), 
     <lb n="2"/>
@@ -2359,7 +2372,7 @@
     all'averne affatto. <rs ana="#C-RAP">Vogliamo agenti, non padroni.</rs></p>
     <p><lb n="44"/>
     5. Ma ciò che fa ancora più meraviglia si è che essi nella loro</p>
-    <p><pb n="92"/>
+    <p><pb facs="92.jpeg" n="92"/>
     <lb n="1"/>
     pretesa costituzione hanno diametralmente contraddetto parecchi 
     <lb n="2"/>
@@ -2448,7 +2461,7 @@
     unanimamente su una forma di governo accettabile da tutta la
     <lb n="44"/>
     Comunità. È veramente inconcepibile che un piccolo numero di </p>
-    <p><pb n="93"/>
+    <p><pb facs="93.jpeg" n="93"/>
     <lb n="1"/>
     uomini, chiamati dal popolo a gestire i suoi affari (solo perché i
     <lb n="2"/>
@@ -2539,7 +2552,7 @@
     romano, dopo che ebbe vinta la lotta contro i patrizi per avere suoi 
     <lb n="45"/>
     membri fra i primi magistrati della repubblica. Il prim'anno non ne</p>
-    <p><pb n="94"/>
+    <p><pb facs="94.jpeg" n="94"/>
     <lb n="1"/>
     scelse alcuno, non vedendo nelle sue file chi fosse degno d'esser 
     <lb n="2"/>
@@ -2630,7 +2643,7 @@
     dei votanti, facendo sempre i cambiamenti dettati dalla crescita o 
     <lb n="45"/>
     diminuzione del loro numero.</p>
-    <p><pb n="95"/>
+    <p><pb facs="95.jpeg" n="95"/>
     <lb n="1"/>
     Desideriamo che nemmeno un sol punto sia soggetto alla minima 
     <lb n="2"/>
@@ -2721,7 +2734,7 @@
     potere che dovrebbe sempre rimanere nella maggioranza del popolo. </rs>
     <lb n="45"/>
     E se l'esercizio di questo potere fosse creduto incomodo in un paese </p>
-    <p><pb n="96"/>
+    <p><pb facs="96.jpeg" n="96"/>
     <lb n="1"/>
     di così vasta estensione, allora che i pilastri fondamentali della
     <lb n="2"/>
@@ -2810,7 +2823,7 @@
     d'altro canto non dovrebbero pubblicare niente anonimamente.
     <lb n="44"/>
     Molte brave persone sono state recentemente ingannate dagli artifizj</p>
-    <p><pb n="97"/>
+    <p><pb facs="97.jpeg" n="97"/>
     <lb n="1"/>
     di scrittori ingegnosi ma maligni, interessati e corrotti. Se ne fossero 
     <lb n="2"/>
@@ -2895,7 +2908,7 @@
     Una tale domanda deve allontanare ognuno dal pensare di promuovere
     <lb n="42"/>
     un precedente così pericoloso, precedente diametralmente</p>
-    <p><pb n="98"/>
+    <p><pb facs="98.jpeg" n="98"/>
     <lb n="1"/>
     opposto alla libertà, quella libertà che ci siam stretti insieme per 
     <lb n="2"/>
@@ -2984,7 +2997,7 @@
     loro deliberazioni, queste saranno stampate e un sufficiente numero 
     <lb n="44"/>
     di copie mandate ad ogni contea da distribuirsi fra il popolo, il </p>
-    <p><pb n="99"/>
+    <p><pb facs="99.jpeg" n="99"/>
     <lb n="1"/> 
     quale, consideratele e sentito il parere dei vicini più abili (il che 
     <lb n="2"/>
@@ -3075,7 +3088,7 @@
     che la tassa è la stessa per tutti quanto a pagare i ministri di quella 
     <lb n="45"/>
     che vien chiamata la chiesa alta [<foreign>high church</foreign>] e che non c'è obbligo</p>
-    <p><pb n="100"/>
+    <p><pb facs="100.jpeg" n="100"/>
     <lb n="1"/>
     di pagarne altre. Ma ciò significherebbe o che tutti devono appartenere
     <lb n="2"/>
@@ -3166,7 +3179,7 @@
     essere ritenuti assiomatici da certi signori, sarebbero ben più 
     <lb n="45"/>
     perniciosi qui che là, dato che là, la loro pretesa onnipotenza,</p>
-    <p><pb n="101"/>
+    <p><pb facs="101.jpeg" n="101"/>
     <lb n="1"/>
     essendo terribile solo per le persone della vita privata, ma molto 
     <lb n="2"/>
@@ -3248,7 +3261,7 @@
       <dateline>11 Maggio 1776</dateline>
       <salute>Ai Delegati della <name ref="#Albemarle" type='place'>contea di <foreign xml:lang="en">Albemarle</foreign></name> </salute>
     </opener>
-    <p><pb n="102"/>
+    <p><pb facs="102.jpeg" n="102"/>
     <lb n="1"/>
     Noi <foreign xml:lang="en">Freeholders</foreign> della <name ref="#Albemarle" type='place'>contea di <foreign xml:lang="en">Albemarle</foreign></name> vi chiediamo di proporre 
     <lb n="2"/>
@@ -3271,7 +3284,7 @@
     Continente ed è da sperarsi che non abbiamo mai da fare con quelle 
     <lb n="11"/>
     che non lo siano.</p>
-   <p><pb n="103"/>
+   <p><pb facs="103.jpeg" n="103"/>
     <lb n="1"/>
     Troppo è già stato sacrificato alla cocciutaggine di uomini miopi 
     <lb n="2"/>    
@@ -3360,7 +3373,7 @@
     frenare le mire ambiziose degli uomini assetati di potere, a diminuire 
     <lb n="44"/>    
     l'invidia e la gelosia aprendo la strada agli onori e al potere a un </p>
-    <p><pb n="104"/>
+    <p><pb facs="104.jpeg" n="104"/>
     <lb n="1"/>
     numero maggiore di individui, e sarà il mezzo d'avere maggior 
     <lb n="2"/>
@@ -3451,7 +3464,7 @@
     popolo possa studiarne il contenuto; e che la sua decisione sia 
     <lb n="45"/>
     ufficialmente registrata in ogni contea. </p>
-    <p><pb n="105"/>
+    <p><pb facs="105.jpeg" n="105"/>
     <lb n="1"/>
     Non crediamo necessario enumerarvi tutti i residui di barbarie e 
     <lb n="2"/>
@@ -3478,7 +3491,7 @@
       <opener>
         <dateline>22 Giugno 1776</dateline>
       </opener>
-  <p><pb n="105"/>
+  <p><pb facs="105.jpeg" n="105"/>
   <lb n="1"/>
   Le soprascritte istruzioni furono scritte prima della metà di maggio
   <lb n="2"/> 
@@ -3521,7 +3534,7 @@
   Si è obiettato:</p>
   <p><lb n="21"/>
   1. Che col nuovo metodo d'elezione i <foreign xml:lang="en">Freeholders</foreign> rinunzierebbero al loro diritto.</p>
-  <p><pb n="106"/>
+  <p><pb facs="106.jpeg" n="106"/>
   <lb n="1"/>
   2. Che obbligare i rappresentanti a chiedere l'approvazione del
   <lb n="2"/>
@@ -3610,7 +3623,7 @@
   qualche cosa, la questione principale dovrebbe sempre essere se
   <lb n="44"/>
   avete qualcosa di meglio da sostituire. Se l'avete, dovete offrirla e la </p>
-  <p><pb n="107"/>
+  <p><pb facs="107.jpeg" n="107"/>
   <lb n="1"/>
   comunità vi sarà grata. Ma se non ne avete, non avete diritto alcuno
   <lb n="2"/>
@@ -3701,7 +3714,7 @@
   capacità. So che lo stile sublime ha tale effetto sul popolo che 
   <lb n="45"/>
   quanto meno ci capisce tanto più è spesso portato ad ammirare. Ma </p>
-  <p><pb n="108"/>
+  <p><pb facs="108.jpeg" n="108"/>
   <lb n="1"/>
   io credo sia ora che smetta la consuetudine di approvare ciò che non 
   <lb n="2"/>
@@ -3792,7 +3805,7 @@
   non avete diritto di impicciarvi di leggi che i vostri rappresentanti 
   <lb n="45"/>
   possano fare a vantaggio proprio; che un privato non dovrebbe</p>
-  <p><pb n="109"/>
+  <p><pb facs="109.jpeg" n="109"/>
   <lb n="1"/>
   pretendere di proporre ai <foreign xml:lang="en">Freeholders</foreign> ciò che gli sembra acconcio 
   <lb n="2"/>
@@ -3883,7 +3896,7 @@
   stato sarebbe peggiore di quel che è stato, dato che il male ci 
   <lb n="45"/>
   sarebbe più vicino. E se vogliamo aver rispetto per i posteri, dobbiamo </p>
-  <p><pb n="110"/>
+  <p><pb facs="110.jpeg" n="110"/>
   <lb n="1"/>
   non compiacerci di non vedere la tirannia allo scoperto, ma 
   <lb n="2"/>
@@ -3974,7 +3987,7 @@
   opinioni? Sappiamo bene che il parlamento d'Inghilterra deve chiedere
   <lb n="45"/>
   al re ciò che prima è stato deciso dal suo consiglio, ma, grazie a</p>
-  <p><pb n="111"/>
+  <p><pb facs="111.jpeg" n="111"/>
   <lb n="1"/>
   Dio, noi non siamo in un tal stato di schiavitù. È inutile predicarci 
   <lb n="2"/>
@@ -4065,7 +4078,7 @@
   il pericolo di restare più a lungo senza leggi. La loro prudenza 
   <lb n="45"/>
   li ha indotti a dar consigli in materia alle Colonie, cosa che decentemente</p>
-  <p><pb n="112"/>
+  <p><pb facs="112.jpeg" n="112"/>
   <lb n="1"/>
   potevano fare, e la loro sapienza (spero e cordialmente desidero)
   <lb n="2"/>
@@ -4156,7 +4169,7 @@
   la colpa sarà nostra. E noi dovremo esser loro grati che vadano 
   <lb n="45"/>
   avanti come meglio possono date le circostanze. Ma anche in tal caso</p>
-  <p><pb n="113"/>
+  <p><pb facs="113.jpeg" n="113"/>
   <lb n="1"/>
   un'adunanza dei <foreign xml:lang="en">Freeholders</foreign> sarà necessaria per sanzionare [il loro 
   <lb n="2"/>
